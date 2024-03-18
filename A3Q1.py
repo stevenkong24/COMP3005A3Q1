@@ -1,5 +1,4 @@
 import psycopg2
-import datetime
 
 connection = "host = 'localhost' \
 dbname = '3005A3' user = 'postgres' \
